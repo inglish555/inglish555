@@ -8,9 +8,13 @@
 My name is Santino Boruccini, I am 17 years old, I want to know more about the world of programming.</h2>
 
 ###
-<h2 align="left">About me</h2>
+<h2 align="left">I tell it about me:</h2>
 ###
-<p align="left"><br>  📚 I'm currently studying at a technical school specializing in programming<br>⚡Fun fact; Videogames🎮 Music🎶 Tv Series 💻 <br>✨I have the ability to learn quickly and adapt to new challenges. <br>🌍Interested in learning new languages <br>📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / ARDUINO / C++ / PYTHON  ...<br>📒 I have worked on various projects where I have applied my knowledge and gained experience in teamwork.<br>📑I stand out in my ability to solve problems and focus on code quality.<br>🎯 Goals: I am looking for opportunities to grow professionally and collaborate on exciting projects....<br> 💻I am an enthusiastic and creative developer, with skills in web development and object-oriented programming</p>
+<p align="left"><br>  
+✨I have the ability to learn quickly and adapt to new challenges. <br> 📚 I'm currently studying at a technical school specializing in programming <br> 📒 I have worked on various projects where I have applied my knowledge and gained experience in teamwork. <br> 🌍Interested in learning new languages <br> ⚡Fun fact; Videogames🎮 Music🎶 Tv Series 💻 Football ⚽ <br> 📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / ARDUINO / C++ / PYTHON ... <br> 💻I am an enthusiastic and creative developer, with skills in web development and object-oriented programming <br>  🎯 Goals: I am looking for opportunities to grow professionally and collaborate on exciting projects....<br> 📑I stand out in my ability to solve problems and focus on code quality. <br>
+<br>
+
+</p>
 
 ###
 
