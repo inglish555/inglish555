@@ -1,19 +1,18 @@
-<h1 align="left">Hi there! 👋 I'm Santino
+<h1 align="left">Hello there! 👋 My name is Santino.
 
 </h1>
 
 ###
 
 <h2 align="left">
-My name is Santino Boruccini, I am 17 years old, I want to know more about the world of programming.</h2>
+I'm Santino Boruccini, a 17-year-old who is interested in learning more about the programming industry.</h2>
 
 ###
-<h2 align="left">I tell it about me:</h2>
+<h2 align="left">I talk about myself here:</h2>
 ###
 <p align="left"><br>  
-✨I have the ability to learn quickly and adapt to new challenges. <br> 📚 I'm currently studying at a technical school specializing in programming <br> 📒 I have worked on various projects where I have applied my knowledge and gained experience in teamwork. <br> 🌍Interested in learning new languages <br> ⚡Fun fact; Videogames🎮 Music🎶 Tv Series 💻 Football ⚽ <br> 📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / ARDUINO / C++ / PYTHON ... <br> 💻I am an enthusiastic and creative developer, with skills in web development and object-oriented programming <br>  🎯 Goals: I am looking for opportunities to grow professionally and collaborate on exciting projects....<br> 📑I stand out in my ability to solve problems and focus on code quality. <br>
+✨I can pick things up quickly and adjust to new situations. <br>  📚 I'm presently enrolled in a technical school with a focus on programming. <br>  📒 I've worked on a number of projects where I've put my knowledge to use and developed my teamwork skills. <br>  🌍 Keen to pick up languages <br>  ⚡Interesting trivia: Video games, music, TV shows, football ♽ <br>  📚 Right now, I'm studying HTML, CSS, JS, JAVA, PHP, MYSQL, ARDUINO, C++, and Python. <br>  💻 With expertise in object-oriented programming and web development, I am a passionate and imaginative developer. <br>  🎯 Objectives: I'm seeking chances to advance my career and work with others on fascinating initiatives. <br>  📑I stand out in my ability to solve problems and focus on code quality.
 <br>
-
 </p>
 
 ###
