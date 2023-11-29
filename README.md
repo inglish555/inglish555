@@ -11,7 +11,8 @@ I'm Santino Boruccini, a 17-year-old who is interested in learning more about th
 <h2 align="left">I talk about myself here:</h2>
 ###
 <p align="left"><br>  
-✨I can pick things up quickly and adjust to new situations. <br>  📚 I'm presently enrolled in a technical school with a focus on programming. <br>  📒 I've worked on a number of projects where I've put my knowledge to use and developed my teamwork skills. <br>  🌍 Keen to pick up languages <br>  ⚡Interesting trivia: Video games, music, TV shows, football ♽ <br>  📚 Right now, I'm studying HTML, CSS, JS, JAVA, PHP, MYSQL, ARDUINO, C++, and Python. <br>  💻 With expertise in object-oriented programming and web development, I am a passionate and imaginative developer. <br>  🎯 Objectives: I'm seeking chances to advance my career and work with others on fascinating initiatives. <br>  📑I stand out in my ability to solve problems and focus on code quality.
+📚passionate about graphic design and creativity.<br>⚡I love creating visually attractive and functional designs.<br>📒 I am constantly looking for new inspirations and trends in the world of design.<br>🌍If you are looking for a creative and committed designer, I am here to help you!<br>💻Do not hesitate to contact me to discuss any project or collaboration.<br>✨I can learn things quickly and adapt to new situations.<br>🎯 Goals: I seek opportunities to advance my career and work with others on exciting initiatives.<br>
+
 <br>
 </p>
 
