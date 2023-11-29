@@ -13,7 +13,6 @@ I'm Santino Boruccini, a 17-year-old who is interested in learning more about th
 <p align="left"><br>  
 📚passionate about graphic design and creativity.<br>⚡I love creating visually attractive and functional designs.<br>📒 I am constantly looking for new inspirations and trends in the world of design.<br>🌍If you are looking for a creative and committed designer, I am here to help you!<br>💻Do not hesitate to contact me to discuss any project or collaboration.<br>✨I can learn things quickly and adapt to new situations.<br>🎯 Goals: I seek opportunities to advance my career and work with others on exciting initiatives.<br>
 
-<br>
 </p>
 
 ###
